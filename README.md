@@ -35,5 +35,15 @@ spring-boot-autoconfig-demo
 
 ## 📊 Fluxograma – AutoConfiguration Flow
 
+```mermaid
+flowchart TD
+    A[Start Application] --> B[Spring Boot AutoConfiguration]
+    B --> C{application.properties}
+    C -->|feature.custom.enabled=true| D[Load Custom Bean]
+    C -->|feature.custom.enabled=false| E[Skip Custom Bean]
+    D --> F[Application Running on Port 8082]
+    E --> F
+```
+
 
 
