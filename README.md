@@ -7,3 +7,5 @@ Este projeto demonstra como o Spring Boot AutoConfiguration funciona, permitindo
 - Demonstrar o uso de AutoConfiguration no Spring Boot.
 - Criar beans condicionais com @ConditionalOnProperty.
 - Mostrar como sobrescrever configurações padrão no application.properties.
+
+## 🏗️ Estrutura do Projeto
