@@ -24,3 +24,5 @@ spring-boot-autoconfig-demo
      └── test/java/com/example/autoconfigdemo/AutoconfigDemoApplicationTests.java
 
 ```
+
+## 🚀 Executando o Projeto
