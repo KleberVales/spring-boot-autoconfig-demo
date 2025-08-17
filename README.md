@@ -9,3 +9,18 @@ Este projeto demonstra como o Spring Boot AutoConfiguration funciona, permitindo
 - Mostrar como sobrescrever configurações padrão no application.properties.
 
 ## 🏗️ Estrutura do Projeto
+
+```plaintext
+spring-boot-autoconfig-demo
+ ├── build.gradle.kts
+ ├── settings.gradle.kts
+ └── src
+     ├── main
+     │   ├── java/com/example/autoconfigdemo
+     │   │   ├── AutoconfigDemoApplication.java
+     │   │   ├── controller/GreetingController.java
+     │   │   └── config/CustomAutoConfig.java
+     │   └── resources/application.properties
+     └── test/java/com/example/autoconfigdemo/AutoconfigDemoApplicationTests.java
+
+```
