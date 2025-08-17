@@ -26,3 +26,12 @@ spring-boot-autoconfig-demo
 ```
 
 ## 🚀 Executando o Projeto
+
+```bash
+
+./gradlew bootRun
+
+```
+
+
+
