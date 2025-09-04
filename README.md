@@ -8,7 +8,7 @@ This project demonstrates how Spring Boot AutoConfiguration works, allowing conf
 - Create conditional beans with @ConditionalOnProperty.
 - Show how to override default settings in application.properties.
 
-## 🏗️ Estrutura do Projeto
+## 🏗️ Project Structure
 
 ```plaintext
 spring-boot-autoconfig-demo
@@ -25,7 +25,7 @@ spring-boot-autoconfig-demo
 
 ```
 
-## 🚀 Executando o Projeto
+## 🚀 Running the Project
 
 ```bash
 
@@ -33,7 +33,7 @@ spring-boot-autoconfig-demo
 
 ```
 
-## 📊 Fluxograma – AutoConfiguration Flow
+## 📊 Flowchart – AutoConfiguration Flow
 
 ```mermaid
 flowchart TD
