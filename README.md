@@ -2,7 +2,7 @@
 
 This project demonstrates how Spring Boot AutoConfiguration works, allowing configurations to be applied automatically and overridden with custom properties.
 
-## 🎯 Objetivos
+## 🎯 Objectives
 
 - Demonstrar o uso de AutoConfiguration no Spring Boot.
 - Criar beans condicionais com @ConditionalOnProperty.
