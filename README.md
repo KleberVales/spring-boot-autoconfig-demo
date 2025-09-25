@@ -52,7 +52,10 @@ flowchart TD
 *Back-end Software Developer*  
 Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit 5 | Hibernate | Docker | Kubernete
 
-Java Certified\
+**Java Certified**  **Microsoft Certified** **Scrum Certified**
+
+Bachelor's Degree in Computer Science  
+MBA in Web Software Development
  
 
 
